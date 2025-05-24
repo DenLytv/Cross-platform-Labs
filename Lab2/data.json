@@ -1,0 +1,11 @@
+{
+    "entry": "Star",
+    "radiobutton": "Star",
+    "checkbuttons": {
+        "Star": true,
+        "Planet": true,
+        "Comet": false
+    },
+    "spinbox": "Star",
+    "optionmenu": "Planet"
+}
