@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-12 11:55:51",
+    "message_count": 3
+  },
+  "messages": [
+    {
+      "timestamp": "03:38",
+      "sender": "Bot",
+      "message": "Hello! Let's talk about social networks and digital hygiene. How often do you use social media?"
+    },
+    {
+      "timestamp": "03:39",
+      "sender": "You",
+      "message": "Everyday"
+    },
+    {
+      "timestamp": "03:39",
+      "sender": "Bot",
+      "message": "Which social networks do you like the most and why?"
+    }
+  ]
+}

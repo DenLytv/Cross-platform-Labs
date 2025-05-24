@@ -1,0 +1,5 @@
+[03:38] Bot: Hello! Let's talk about social networks and digital hygiene. How often do you use social media?
+[03:39] You: Everyday
+[03:39] Bot: Which social networks do you like the most and why?
+[11:55] System: Chat saved successfully to E:/Мій диск/LPNU/2 к/2 с/Кросплатформа/Lab9/a.json
+
